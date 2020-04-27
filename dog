@@ -1,0 +1,21 @@
+#body
+push
+move
+200 50 0
+rotate
+y 60
+rotate
+z 90
+box
+0 0 0 50 200 250
+push
+move
+0 100 0
+box
+0 0 0 35 35 250
+move
+0 0 90
+torus
+0 0 0 3
+0 40
+display
